@@ -13,7 +13,7 @@
 
 ### Мои основные проекты:
 - [bank-web](https://github.com/6jodeci/bank-web)
-Реализация серверной части банковской системы с транзакциями. 
+Реализация серверной части банковской системы с авторизацией и транзикциями также написаны mock-тесты и unit-тесты.
 - [L0-wb-tech](https://github.com/6jodeci/L0-wb-tech)
 Одно из заданий со стажировки Wb-tech. Подключение и подписка на канал в nats-streaming. Так же полученные данные сохраняются в кэш.
 - [SecretsKeeper](https://github.com/6jodeci/SecretsKeeper)
