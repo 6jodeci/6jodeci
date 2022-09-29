@@ -5,6 +5,7 @@
 - PostgreSQL / MySQL
 - Docker / Kubernetes
 - NATS
+- Proto / gRPC
 - Gitflow / Gitlab
 - Linux / Windows
 - WRK
