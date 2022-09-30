@@ -1,15 +1,14 @@
 # Приветствую! 👋
 ## Я Егор, Backend-разработчик
 ### Мой текущий стек технологий:
-- Golang / Go
-- PostgreSQL / MySQL
-- Docker / Kubernetes
+- Golang (Go)
+- PostgreSQL / MySQL / MSSQL
+- Docker
 - NATS
 - Proto / gRPC
 - Gitflow / Gitlab
 - Linux / Windows
 - WRK
-- HTML / CSS / JS
 - Vcs(Git)
 
 ### Мои основные проекты:
