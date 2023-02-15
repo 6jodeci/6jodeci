@@ -4,12 +4,10 @@
 - Golang (Go)
 - PostgreSQL / MySQL / MSSQL
 - Docker
-- NATS
+- Kafka
 - Proto / gRPC
-- Gitflow / Gitlab
 - Linux / Windows
-- WRK
-- Vcs(Git)
+- Git / Gitlab
 
 ### Мои основные проекты:
 - [bank-web](https://github.com/6jodeci/bank-web) -
