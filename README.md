@@ -17,6 +17,4 @@
 - [blockchain-begin](https://github.com/6jodeci/blockchain-begin) -
 Начало моего пути в BlockChain сфере. Реализовал простое шифрование блоков и транзакции между блоками.
 
-### Очень интересна криптосфера, стартапы, высоконагруженные системы.
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6jodeci&layout=compact)](https://github.com/6jodeci/)
