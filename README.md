@@ -6,6 +6,7 @@
 - Docker
 - Kafka
 - Proto / gRPC
+- Prometheus
 - Linux / Windows
 - Git / Gitlab
 
