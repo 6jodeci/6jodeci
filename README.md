@@ -2,10 +2,10 @@
 ## Я Егор, Backend-разработчик
 ### Мой текущий стек технологий:
 - Golang (Go)
-- PostgreSQL / MySQL / MSSQL
+- PostgreSQL
 - Docker
 - Kafka
-- Proto / gRPC
+- gRPC
 - Prometheus
 - Linux / Windows
 - Git / Gitlab
