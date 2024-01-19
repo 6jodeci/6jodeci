@@ -4,7 +4,7 @@
 - Golang (Go)
 - PostgreSQL
 - Docker
-- Kafka
+- NATS
 - gRPC
 - Prometheus
 - Linux / Windows
