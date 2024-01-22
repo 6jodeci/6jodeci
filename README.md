@@ -3,6 +3,7 @@
 ### Мой текущий стек технологий:
 - Golang (Go)
 - PostgreSQL
+- Redis
 - Docker
 - NATS
 - gRPC
