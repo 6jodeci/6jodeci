@@ -17,4 +17,4 @@ Payments · Fintech · Microservices · Distributed Systems · Event-Driven Arch
 Telegram: [@joodeci](https://t.me/joodeci)  
 Email: egor0263s@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6jodeci&layout=compact)](https://github.com/6jodeci)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6jodeci&layout=compact&hide_border=true)](https://github.com/6jodeci)
